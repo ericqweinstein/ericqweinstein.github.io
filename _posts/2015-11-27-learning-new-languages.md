@@ -19,7 +19,7 @@ I've picked up a new language roughly every year or so for the last handful of y
 | 2014 | ClojureScript  |
 | 2015 | Swift          |
 
-It might seem odd that I'm treating Clojure and ClojureScript is separate languages, but I think it makes sense: if tooling and ecosystem are the actual hard parts of learning a language, then Clojure (interoperating with Java) and ClojureScript (interoperating with JavaScript), despite having virtually identical syntax, vastly differ with regard to toolchains, which in turn necessitates learning different APIs, (anti)patterns, best practices, and so on.
+It might seem odd that I'm treating Clojure and ClojureScript as separate languages, but I think it makes sense: if tooling and ecosystem are the actual hard parts of learning a language, then Clojure (interoperating with Java) and ClojureScript (interoperating with JavaScript), despite having virtually identical syntax, vastly differ with regard to toolchains, which in turn necessitates learning different APIs, (anti)patterns, best practices, and so on.
 
 So! I'm looking to become "production proficient" in another programming language in 2016.
 
