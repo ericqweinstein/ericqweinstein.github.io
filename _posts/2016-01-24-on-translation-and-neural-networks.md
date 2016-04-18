@@ -90,13 +90,13 @@ This is a reasonably faithful translation from the original Python, though there
 2. This version prints much more frequently than the original (every line rather than just at the end), but I wanted to watch the hidden layer change with each iteration.
 3. I'm not thrilled that I'm not seeding `rand` each time, so my results aren't reproducible. You _can_ do it by redefining `clojure.core/rand`:
 
-    ```clj
-    (def r (java.util.Random. 0))
+```clj
+(def r (java.util.Random. 0))
 
-    (defn rand
-      ([]  (.nextDouble r))
-      ([n] (.nextInt r n)))
-    ```
+(defn rand
+  ([]  (.nextDouble r))
+  ([n] (.nextInt r n)))
+```
 
 ...but I'm not sure I recommend it. Redefining core functions can lead to wonky behavior, and I'm sure there's a better way to ensure reproducibility (either a more elegant Java interop or a numerical/machine learning library that abstracts this away). The point though, I think, is that I understand the code and the library calls in a way that I wouldn't have had I simply typed the program from memory or just read through the NumPy documentation.
 
