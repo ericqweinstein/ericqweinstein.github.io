@@ -6,7 +6,7 @@ summary: What I'm currently reading.
 tags: poetry programming reading
 ---
 
-###Currently Reading
+### Currently Reading
 *Gödel, Escher, Bach: An Eternal Golden Braid* by Douglas Hofstadter (Nonfiction)  
 *Bender: New & Selected Poems* by Dean Young (Poetry)  
 *The Word on the Street* by Paul Muldoon (Poetry)  
