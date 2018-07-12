@@ -8,6 +8,6 @@ permalink: /contact/
   <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked form-light">
     <input type="text" name="email" class="input mobile-block" placeholder="Email Address">
     <textarea type="text" name="content" class="input mobile-block" rows="5" placeholder="What's up?"></textarea>
-    <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
+    <input type="submit" class="button button-blue button-big mobile-block" value="Send!">
   </form>
 </div>
