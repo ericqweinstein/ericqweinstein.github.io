@@ -2,7 +2,7 @@
 layout: post
 title: Complexity, Completeness, and Smart Contracts
 date: 2018-07-12 14:00:00
-summary: Or, Why Dumb is Better
+summary: Or, why dumb is better.
 categories: programming smart contracts solidity
 ---
 
