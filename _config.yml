@@ -14,6 +14,9 @@ animated:           false
 show_related_posts: false
 show_post_footers:  false
 
+# Brave
+include: [".well-known"]
+
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname:

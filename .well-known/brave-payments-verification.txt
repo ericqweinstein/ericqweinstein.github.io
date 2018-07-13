@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: ericweinste.in
+Token: 1329c6f3656ab1b70159e4b7c07429278323d84b12f7018195fd4ef4f06c2389
