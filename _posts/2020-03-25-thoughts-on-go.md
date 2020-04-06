@@ -195,10 +195,10 @@ Most languages have product types, and depending on your background, you might k
 
 ```go
 type User struct {
-	Id:        uint64,
-	FirstName: string,
-	LastName:  string,
-	Email:     string,
+	Id        uint64
+	FirstName string
+	LastName  string
+	Email     string
 }
 ```
 
