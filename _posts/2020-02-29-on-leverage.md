@@ -2,7 +2,7 @@
 layout: post
 title: On Leverage
 date: 2020-02-29 14:00:00
-summary: Reading, Writing, and Remembering.
+summary: Reading, writing, and (avoiding) RSI.
 categories: programming tools reading writing memory
 ---
 
