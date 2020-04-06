@@ -4,7 +4,7 @@ email:       eric.q.weinstein@gmail.com
 author:      Eric Weinstein
 description: "Poems and programs by Eric Weinstein."
 baseurl:     ""
-url:         "http://ericweinste.in"
+url:         "https://ericweinste.in"
 
 # Google analytics
 google_analytics: "UA-9674815-3"
